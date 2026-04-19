@@ -78,7 +78,7 @@ const Pricing = () => {
             <div style={{ padding: '2rem', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', backgroundColor: '#e0f2fe' }}>
               <div style={{ fontSize: '2.5rem', fontWeight: 800, color: 'var(--accent-color)' }}>$20</div>
               <div style={{ fontSize: '0.875rem', color: 'var(--text-secondary)', marginBottom: '1rem' }}>per month, billed monthly</div>
-              <a href="#" className="btn btn-primary" style={{ width: '100%', maxWidth: '200px' }}>Deploy Agent</a>
+              <a href="#pricing" className="btn btn-primary" style={{ width: '100%', maxWidth: '200px' }}>Deploy Agent</a>
             </div>
           </div>
         </div>

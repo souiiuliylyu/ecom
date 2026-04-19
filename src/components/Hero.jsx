@@ -31,8 +31,8 @@ const Hero = () => {
           </div>
         </div>
         <div className="hero-cta">
-          <a href="#" className="btn btn-primary btn-lg">Deploy Agent Now</a>
-          <a href="#" className="btn btn-secondary btn-lg">Watch Demo</a>
+          <a href="#pricing" className="btn btn-primary btn-lg">Deploy Agent Now</a>
+          <a href="#how-it-works" className="btn btn-secondary btn-lg">Watch Demo</a>
         </div>
         <div className="hero-trust">
           <span className="trust-icon">🔒</span>

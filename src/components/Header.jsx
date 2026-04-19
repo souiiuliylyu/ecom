@@ -21,8 +21,8 @@ const Header = () => {
             <a href="#changelog">Changelog</a>
           </nav>
           <div className="flex items-center gap-4">
-            <a href="#" className="hidden-xs" style={{ fontWeight: 500 }}>Log In</a>
-            <a href="#" className="btn btn-primary">Get Started — $20/mo</a>
+            <a href="#pricing" className="hidden-xs" style={{ fontWeight: 500 }}>Log In</a>
+            <a href="#pricing" className="btn btn-primary">Get Started — $20/mo</a>
           </div>
         </div>
       </div>

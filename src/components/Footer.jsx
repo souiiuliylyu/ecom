@@ -10,7 +10,7 @@ const Footer = () => {
           <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '1.1rem', maxWidth: '600px', margin: '0 auto 2rem' }}>
             Deploy your AI agent today. Start automating your entire e-commerce operation for just $20/month.
           </p>
-          <a href="#" className="btn btn-cta">Deploy Agent — $20/mo</a>
+          <a href="#pricing" className="btn btn-cta">Deploy Agent — $20/mo</a>
         </div>
 
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '3rem', marginBottom: '4rem', marginTop: '4rem' }}>
