@@ -5,7 +5,7 @@ const Hero = () => {
     <section className="hero-section animate-fade-in">
       <div className="container">
         <div className="hero-glow"></div>
-        <div className="badge pulse-badge">✨ Ecomstory Agent 1.0 is live — Weekly new skills added automatically</div>
+        <div className="badge pulse-badge">✨ Ecomplay Agent 1.0 is live — Weekly new skills added automatically</div>
         <h1 className="h1">
           One AI agent that replaces<br />
           your entire e-commerce team

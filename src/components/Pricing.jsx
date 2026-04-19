@@ -13,7 +13,7 @@ const Pricing = () => {
         <div className="pricing-wrapper card">
           <div className="pricing-header">
              <div>Hiring a Team (Monthly)</div>
-             <div><span className="logo">Ecomstory Agent</span></div>
+             <div><span className="logo">Ecomplay Agent</span></div>
           </div>
           <div className="pricing-row">
             <div>

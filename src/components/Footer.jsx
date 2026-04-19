@@ -16,7 +16,7 @@ const Footer = () => {
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '3rem', marginBottom: '4rem', marginTop: '4rem' }}>
           
           <div>
-            <div className="logo" style={{ marginBottom: '1rem' }}>ecomstory.</div>
+            <div className="logo" style={{ marginBottom: '1rem' }}>ecomplay.</div>
             <p style={{ color: 'var(--text-secondary)', fontSize: '0.875rem', marginBottom: '1.5rem' }}>
               AI-powered e-commerce operations platform. One agent to run your entire business.
             </p>
@@ -63,7 +63,7 @@ const Footer = () => {
         </div>
 
         <div style={{ borderTop: '1px solid var(--border-color)', paddingTop: '2rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: '0.875rem', color: 'var(--text-tertiary)', flexWrap: 'wrap', gap: '1rem' }}>
-          <p>© 2026 Ecomstory by StoryClicks Inc. All rights reserved.</p>
+          <p>© 2026 Ecomplay by StoryClicks Inc. All rights reserved.</p>
           <p style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
             <span>🔒</span> SOC 2 Compliant · Private Servers · Enterprise Security
           </p>

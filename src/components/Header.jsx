@@ -13,7 +13,7 @@ const Header = () => {
     <header className={`header-fixed ${scrolled ? 'header-scrolled' : ''}`}>
       <div className="container">
         <div className="navbar">
-          <div className="logo">Ecomstory.</div>
+          <div className="logo">Ecomplay.</div>
           <nav className="nav-links hidden-xs">
             <a href="#how-it-works">Skills</a>
             <a href="#pricing">Pricing</a>

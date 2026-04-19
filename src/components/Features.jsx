@@ -6,8 +6,8 @@ const Features = () => {
       <div className="container">
         <div className="text-center" style={{ marginBottom: '4rem' }}>
           <div className="badge">CORE CAPABILITIES</div>
-          <h2 className="h2">Your Ecomstory Agent comes pre-installed with these e-com skills</h2>
-          <p className="lead">Ecomstory doesn't wait for instructions. It monitors, creates, and executes on its own.</p>
+          <h2 className="h2">Your Ecomplay Agent comes pre-installed with these e-com skills</h2>
+          <p className="lead">Ecomplay doesn't wait for instructions. It monitors, creates, and executes on its own.</p>
         </div>
         
         {/* Full-width feature showcases */}
